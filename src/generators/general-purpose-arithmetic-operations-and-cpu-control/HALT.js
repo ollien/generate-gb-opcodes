@@ -37,7 +37,7 @@ const generate_HALT = () => { // eslint-disable-line camelcase
         the program counter.
       </p>
       <p>
-        If the interrupt master enable flag is set, the contents of the program coounter
+        If the interrupt master enable flag is set, the contents of the program counter
         are pushed to the stack and control jumps to the starting address of the interrupt.
       </p>
       <p>
